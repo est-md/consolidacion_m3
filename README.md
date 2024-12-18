@@ -1,6 +1,6 @@
-# Práctica de consolidación 3: filtrando Datos
+# Práctica de consolidación 3: Filtrando Datos
 
-funciones en Python
+Funciones en Python
 
 ## Repositorio
 
